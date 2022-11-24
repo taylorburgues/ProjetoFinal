@@ -1,6 +1,6 @@
 import './Logo.css';
 import React from 'react';
-import logo from '../../assets/images/Logo.jpeg'
+import logo from '../../assets/images/Logo.jpg'
 
 export default function Logo(props) {
     return (
